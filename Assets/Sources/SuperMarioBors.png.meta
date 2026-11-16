@@ -1,0 +1,5228 @@
+fileFormatVersion: 2
+guid: eaa70e61b29f0254fb16b5a90291dc2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2541531007675201710
+    second: SuperMarioBors_0
+  - first:
+      213: 1784634410461428545
+    second: SuperMarioBors_1
+  - first:
+      213: -2141596824374549521
+    second: SuperMarioBors_2
+  - first:
+      213: 3372274184975982967
+    second: SuperMarioBors_3
+  - first:
+      213: 3373158879740680995
+    second: SuperMarioBors_4
+  - first:
+      213: -3333698856197399143
+    second: SuperMarioBors_5
+  - first:
+      213: 8607155182405009676
+    second: SuperMarioBors_6
+  - first:
+      213: 2591442153711971625
+    second: SuperMarioBors_7
+  - first:
+      213: 8128391327733765038
+    second: SuperMarioBors_8
+  - first:
+      213: 5171021061336277820
+    second: SuperMarioBors_9
+  - first:
+      213: -6334188943214832372
+    second: SuperMarioBors_10
+  - first:
+      213: -5904097552014785838
+    second: SuperMarioBors_11
+  - first:
+      213: 8918759110295038580
+    second: SuperMarioBors_12
+  - first:
+      213: 8603214219974991599
+    second: SuperMarioBors_13
+  - first:
+      213: 9121626439539668841
+    second: SuperMarioBors_14
+  - first:
+      213: -1149260429486205697
+    second: SuperMarioBors_15
+  - first:
+      213: 6639246239043377101
+    second: SuperMarioBors_16
+  - first:
+      213: 1907347216036317925
+    second: SuperMarioBors_17
+  - first:
+      213: -2474029021199572425
+    second: SuperMarioBors_18
+  - first:
+      213: -58569139823450239
+    second: SuperMarioBors_19
+  - first:
+      213: -4063106203158013600
+    second: SuperMarioBors_20
+  - first:
+      213: 674485139743516577
+    second: SuperMarioBors_21
+  - first:
+      213: -4492354355725634799
+    second: SuperMarioBors_22
+  - first:
+      213: 5426375639878345699
+    second: SuperMarioBors_23
+  - first:
+      213: 2408741453671567914
+    second: SuperMarioBors_24
+  - first:
+      213: 1798205978655980185
+    second: SuperMarioBors_25
+  - first:
+      213: 7890340634166901781
+    second: SuperMarioBors_26
+  - first:
+      213: 2735689051551046944
+    second: SuperMarioBors_27
+  - first:
+      213: 6758345616989975135
+    second: SuperMarioBors_28
+  - first:
+      213: -2241061579135653767
+    second: SuperMarioBors_29
+  - first:
+      213: -1711835735135804452
+    second: SuperMarioBors_30
+  - first:
+      213: -5464766404893153220
+    second: SuperMarioBors_31
+  - first:
+      213: 4110818971860027957
+    second: SuperMarioBors_32
+  - first:
+      213: 4362957578207474597
+    second: SuperMarioBors_33
+  - first:
+      213: -4135043458599831138
+    second: SuperMarioBors_34
+  - first:
+      213: -2642407371261733812
+    second: SuperMarioBors_35
+  - first:
+      213: -7079111135067913238
+    second: SuperMarioBors_36
+  - first:
+      213: -3145837129006488080
+    second: SuperMarioBors_37
+  - first:
+      213: 2813592501699445692
+    second: SuperMarioBors_38
+  - first:
+      213: -4647242264207572453
+    second: SuperMarioBors_39
+  - first:
+      213: 1398383754964520652
+    second: SuperMarioBors_40
+  - first:
+      213: 611334017709630248
+    second: SuperMarioBors_41
+  - first:
+      213: 3610157657188523965
+    second: SuperMarioBors_42
+  - first:
+      213: -8902727848014575351
+    second: SuperMarioBors_43
+  - first:
+      213: -3909148447829680093
+    second: SuperMarioBors_44
+  - first:
+      213: -7265445939378655564
+    second: SuperMarioBors_45
+  - first:
+      213: -5003364452175963625
+    second: SuperMarioBors_46
+  - first:
+      213: 6854929153685059835
+    second: SuperMarioBors_47
+  - first:
+      213: 1307803081055755602
+    second: SuperMarioBors_48
+  - first:
+      213: -2359280225005097222
+    second: SuperMarioBors_49
+  - first:
+      213: -3770116636240227080
+    second: SuperMarioBors_50
+  - first:
+      213: -5062491996523986231
+    second: SuperMarioBors_51
+  - first:
+      213: 6205442363320284814
+    second: SuperMarioBors_52
+  - first:
+      213: 9024835096505869954
+    second: SuperMarioBors_53
+  - first:
+      213: 3759799673467532887
+    second: SuperMarioBors_54
+  - first:
+      213: 8281146421462452152
+    second: SuperMarioBors_55
+  - first:
+      213: 8319934832432250378
+    second: SuperMarioBors_56
+  - first:
+      213: 3566848130246944075
+    second: SuperMarioBors_57
+  - first:
+      213: 710733501083835815
+    second: SuperMarioBors_58
+  - first:
+      213: 6154496132059204283
+    second: SuperMarioBors_59
+  - first:
+      213: -105106956000559658
+    second: SuperMarioBors_60
+  - first:
+      213: -3392498819038643073
+    second: SuperMarioBors_61
+  - first:
+      213: 579671624157919071
+    second: SuperMarioBors_62
+  - first:
+      213: -7862799167161539598
+    second: SuperMarioBors_63
+  - first:
+      213: 5570990224470024949
+    second: SuperMarioBors_64
+  - first:
+      213: -6823478316279546551
+    second: SuperMarioBors_65
+  - first:
+      213: 5298769607045043564
+    second: SuperMarioBors_66
+  - first:
+      213: 3972657064665375760
+    second: SuperMarioBors_67
+  - first:
+      213: 2197032575594824423
+    second: SuperMarioBors_68
+  - first:
+      213: -7310898511742789884
+    second: SuperMarioBors_69
+  - first:
+      213: 8447094303033309340
+    second: SuperMarioBors_70
+  - first:
+      213: -3127867711364247547
+    second: SuperMarioBors_71
+  - first:
+      213: -978223152572268921
+    second: SuperMarioBors_72
+  - first:
+      213: 5451153100304572141
+    second: SuperMarioBors_73
+  - first:
+      213: -8942553937766531194
+    second: SuperMarioBors_74
+  - first:
+      213: 3093540664707798622
+    second: SuperMarioBors_75
+  - first:
+      213: 2299722356262239993
+    second: SuperMarioBors_76
+  - first:
+      213: -3422457532785561997
+    second: SuperMarioBors_77
+  - first:
+      213: 8783086255479723292
+    second: SuperMarioBors_78
+  - first:
+      213: -2295284315819862549
+    second: SuperMarioBors_79
+  - first:
+      213: 4838481182987395234
+    second: SuperMarioBors_80
+  - first:
+      213: 1167030021618078257
+    second: SuperMarioBors_81
+  - first:
+      213: -3462323199017402271
+    second: SuperMarioBors_82
+  - first:
+      213: -4061636403916925760
+    second: SuperMarioBors_83
+  - first:
+      213: 215471498050296524
+    second: SuperMarioBors_84
+  - first:
+      213: -6753151406265313461
+    second: SuperMarioBors_85
+  - first:
+      213: 5685620622015436231
+    second: SuperMarioBors_86
+  - first:
+      213: -7208631774736036051
+    second: SuperMarioBors_87
+  - first:
+      213: -756148126715750528
+    second: SuperMarioBors_88
+  - first:
+      213: -8838146572155010139
+    second: SuperMarioBors_89
+  - first:
+      213: -6083926602417395480
+    second: SuperMarioBors_90
+  - first:
+      213: -1077087282788142005
+    second: SuperMarioBors_91
+  - first:
+      213: 3224238902888674668
+    second: SuperMarioBors_92
+  - first:
+      213: 5324673922073557682
+    second: SuperMarioBors_93
+  - first:
+      213: -3547865306735859387
+    second: SuperMarioBors_94
+  - first:
+      213: -3844580306578798873
+    second: SuperMarioBors_95
+  - first:
+      213: 5850808055503744613
+    second: SuperMarioBors_96
+  - first:
+      213: -5431436486800152081
+    second: SuperMarioBors_97
+  - first:
+      213: -1394384735953072900
+    second: SuperMarioBors_98
+  - first:
+      213: 5919532997081317663
+    second: SuperMarioBors_99
+  - first:
+      213: 8901737053682787296
+    second: SuperMarioBors_100
+  - first:
+      213: -7836164058805067702
+    second: SuperMarioBors_101
+  - first:
+      213: -6234479721353186520
+    second: SuperMarioBors_102
+  - first:
+      213: 368926493386774575
+    second: SuperMarioBors_103
+  - first:
+      213: 981424495070877041
+    second: SuperMarioBors_104
+  - first:
+      213: -269113828531954600
+    second: SuperMarioBors_105
+  - first:
+      213: 3246787835538245112
+    second: SuperMarioBors_106
+  - first:
+      213: -3473243040956156057
+    second: SuperMarioBors_107
+  - first:
+      213: 1637310345127863779
+    second: SuperMarioBors_108
+  - first:
+      213: 7129653081202862008
+    second: SuperMarioBors_109
+  - first:
+      213: -8806928887755167098
+    second: SuperMarioBors_110
+  - first:
+      213: 519246286158491357
+    second: SuperMarioBors_111
+  - first:
+      213: -1389884950591187052
+    second: SuperMarioBors_112
+  - first:
+      213: -4226387253054270709
+    second: SuperMarioBors_113
+  - first:
+      213: -4592162262293153220
+    second: SuperMarioBors_114
+  - first:
+      213: -4181198242362340190
+    second: SuperMarioBors_115
+  - first:
+      213: -8090403475924347111
+    second: SuperMarioBors_116
+  - first:
+      213: -1645234582498672633
+    second: SuperMarioBors_117
+  - first:
+      213: 6430312559998198530
+    second: SuperMarioBors_118
+  - first:
+      213: 9155699488608067204
+    second: SuperMarioBors_119
+  - first:
+      213: -4650831399256565345
+    second: SuperMarioBors_120
+  - first:
+      213: -6184018283959317598
+    second: SuperMarioBors_121
+  - first:
+      213: -173842914003995702
+    second: SuperMarioBors_122
+  - first:
+      213: 7174660792830349740
+    second: SuperMarioBors_123
+  - first:
+      213: 6200353418782408921
+    second: SuperMarioBors_124
+  - first:
+      213: -7321799278966841617
+    second: SuperMarioBors_125
+  - first:
+      213: 2885261670229585060
+    second: SuperMarioBors_126
+  - first:
+      213: 3842980857306012362
+    second: SuperMarioBors_127
+  - first:
+      213: -8888886575837667162
+    second: SuperMarioBors_128
+  - first:
+      213: -7396890742236978392
+    second: SuperMarioBors_129
+  - first:
+      213: -4691069338082936835
+    second: SuperMarioBors_130
+  - first:
+      213: 5379553371533497861
+    second: SuperMarioBors_131
+  - first:
+      213: -4160192013648065287
+    second: SuperMarioBors_132
+  - first:
+      213: -6484244615107042620
+    second: SuperMarioBors_133
+  - first:
+      213: 1654150581990152674
+    second: SuperMarioBors_134
+  - first:
+      213: 5878650613702410937
+    second: SuperMarioBors_135
+  - first:
+      213: -231574907211653295
+    second: SuperMarioBors_136
+  - first:
+      213: -7727815625379575031
+    second: SuperMarioBors_137
+  - first:
+      213: 2598493245298058699
+    second: SuperMarioBors_138
+  - first:
+      213: -643011521002594184
+    second: SuperMarioBors_139
+  - first:
+      213: 5013309719342596732
+    second: SuperMarioBors_140
+  - first:
+      213: 3553914165612485007
+    second: SuperMarioBors_141
+  - first:
+      213: -3354765656986378258
+    second: SuperMarioBors_142
+  - first:
+      213: -4082090986008757076
+    second: SuperMarioBors_143
+  - first:
+      213: -2919574904354040013
+    second: SuperMarioBors_144
+  - first:
+      213: 2965667717811357525
+    second: SuperMarioBors_145
+  - first:
+      213: -8990953528259265305
+    second: SuperMarioBors_146
+  - first:
+      213: -6795312240806890691
+    second: SuperMarioBors_147
+  - first:
+      213: -1792099892485239903
+    second: SuperMarioBors_148
+  - first:
+      213: -5321961946177122826
+    second: SuperMarioBors_149
+  - first:
+      213: -1432928007025040154
+    second: SuperMarioBors_150
+  - first:
+      213: 2375249395685035462
+    second: SuperMarioBors_151
+  - first:
+      213: 5802709764039003575
+    second: SuperMarioBors_152
+  - first:
+      213: -1576740323254086276
+    second: SuperMarioBors_153
+  - first:
+      213: -5785249997501344697
+    second: SuperMarioBors_154
+  - first:
+      213: 999938725006980471
+    second: SuperMarioBors_155
+  - first:
+      213: 6462418425249113574
+    second: SuperMarioBors_156
+  - first:
+      213: 1303514084174632464
+    second: SuperMarioBors_157
+  - first:
+      213: -7402298329790536187
+    second: SuperMarioBors_158
+  - first:
+      213: -6125911980074925249
+    second: SuperMarioBors_159
+  - first:
+      213: -2983936299132568889
+    second: SuperMarioBors_160
+  - first:
+      213: 4739456006699398969
+    second: SuperMarioBors_161
+  - first:
+      213: -4915996011979084500
+    second: SuperMarioBors_162
+  - first:
+      213: -8403945656233337612
+    second: SuperMarioBors_163
+  - first:
+      213: -530619010399011263
+    second: SuperMarioBors_164
+  - first:
+      213: -8395104867839108776
+    second: SuperMarioBors_165
+  - first:
+      213: 7971110021597376423
+    second: SuperMarioBors_166
+  - first:
+      213: 8245952333541200941
+    second: SuperMarioBors_167
+  - first:
+      213: -5543038338747083243
+    second: SuperMarioBors_168
+  - first:
+      213: -141796661050378466
+    second: SuperMarioBors_169
+  - first:
+      213: -1626485284816400116
+    second: SuperMarioBors_170
+  - first:
+      213: 8140026927083308960
+    second: SuperMarioBors_171
+  - first:
+      213: 8020591760826548897
+    second: SuperMarioBors_172
+  - first:
+      213: -574174851820260260
+    second: SuperMarioBors_173
+  - first:
+      213: 3957494265281251097
+    second: SuperMarioBors_174
+  - first:
+      213: -1139167108900903392
+    second: SuperMarioBors_175
+  - first:
+      213: 80925077753488169
+    second: SuperMarioBors_176
+  - first:
+      213: -5204772927062789823
+    second: SuperMarioBors_177
+  - first:
+      213: 6058194129584730237
+    second: SuperMarioBors_178
+  - first:
+      213: -4201703034531182481
+    second: SuperMarioBors_179
+  - first:
+      213: 8229220166281506923
+    second: SuperMarioBors_180
+  - first:
+      213: -3960006170452568706
+    second: SuperMarioBors_181
+  - first:
+      213: 8734336089320193126
+    second: SuperMarioBors_182
+  - first:
+      213: 7951002088509505180
+    second: SuperMarioBors_183
+  - first:
+      213: -2807054309471261659
+    second: SuperMarioBors_184
+  - first:
+      213: 5363590389468600439
+    second: SuperMarioBors_185
+  - first:
+      213: 3776334555622218337
+    second: SuperMarioBors_186
+  - first:
+      213: 7645590543959647826
+    second: SuperMarioBors_187
+  - first:
+      213: 7546126428759888361
+    second: SuperMarioBors_188
+  - first:
+      213: 4894052858523532622
+    second: SuperMarioBors_189
+  - first:
+      213: -4408285905222083864
+    second: SuperMarioBors_190
+  - first:
+      213: 3978717692432096638
+    second: SuperMarioBors_191
+  - first:
+      213: -8458830299827578478
+    second: SuperMarioBors_192
+  - first:
+      213: 6775790147841877281
+    second: SuperMarioBors_193
+  - first:
+      213: 6239686683922206513
+    second: SuperMarioBors_194
+  - first:
+      213: 2770536740119966597
+    second: SuperMarioBors_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperMarioBors_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1696
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25701ed930baabcd0800000000000000
+      internalID: -2541531007675201710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bfd797a8b44c810800000000000000
+      internalID: 1784634410461428545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1696
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ec0fe8058742e0800000000000000
+      internalID: -2141596824374549521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1696
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771a6b01189bcce20800000000000000
+      internalID: 3372274184975982967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd5ed112edfce20800000000000000
+      internalID: 3373158879740680995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5a309d825cb1d0800000000000000
+      internalID: -3333698856197399143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1696
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c9e52902c27770800000000000000
+      internalID: 8607155182405009676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1696
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da9f3a8e6a6f320800000000000000
+      internalID: 2591442153711971625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1693
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3dfe4b8d8ddc070800000000000000
+      internalID: 8128391327733765038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33230f024823c740800000000000000
+      internalID: 5171021061336277820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1696
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05197357b07818a0800000000000000
+      internalID: -6334188943214832372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1696
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c7e4ce8e601ea0800000000000000
+      internalID: -5904097552014785838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1693
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a2a6e382cc5cb70800000000000000
+      internalID: 8918759110295038580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1693
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feed23450c1c46770800000000000000
+      internalID: 8603214219974991599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1693
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b2961be6869e70800000000000000
+      internalID: 9121626439539668841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1693
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4df0a7ab10d00f0800000000000000
+      internalID: -1149260429486205697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1693
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc757863747532c50800000000000000
+      internalID: 6639246239043377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1690
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacc2bff22487a10800000000000000
+      internalID: 1907347216036317925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1693
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732646396bb7aadd0800000000000000
+      internalID: -2474029021199572425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1690
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e50a7dabef2ff0800000000000000
+      internalID: -58569139823450239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1690
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069941c7f62fc97c0800000000000000
+      internalID: -4063106203158013600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1690
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a721b839a04c5900800000000000000
+      internalID: 674485139743516577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_22
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1690
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1137bc5d383f7a1c0800000000000000
+      internalID: -4492354355725634799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e328c0f4eb5e4b40800000000000000
+      internalID: 5426375639878345699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1690
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221add07919d6120800000000000000
+      internalID: 2408741453671567914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_25
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af5ce6fc284f810800000000000000
+      internalID: 1798205978655980185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c3950800f108d60800000000000000
+      internalID: 7890340634166901781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_27
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d10a5b2be17f520800000000000000
+      internalID: 2735689051551046944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_28
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1690
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52710a08877acd50800000000000000
+      internalID: 6758345616989975135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1687
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e7df0e5626e0e0800000000000000
+      internalID: -2241061579135653767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1311
+        width: 313
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32965f7765e38e0800000000000000
+      internalID: -1711835735135804452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1499
+        width: 175
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ead788ef3924b0800000000000000
+      internalID: -5464766404893153220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1250
+        width: 314
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a47a923109c0930800000000000000
+      internalID: 4110818971860027957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1461
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3b72b2dc65c8c30800000000000000
+      internalID: 4362957578207474597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1461
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ba5ff1ef5d96c0800000000000000
+      internalID: -4135043458599831138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1458
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441214fe78445bd0800000000000000
+      internalID: -2642407371261733812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1461
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3c3ccede1f1cd90800000000000000
+      internalID: -7079111135067913238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1461
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5655c6ccdb754d0800000000000000
+      internalID: -3145837129006488080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1461
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb38f762973eb0720800000000000000
+      internalID: 2813592501699445692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1461
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c9b868cda18fb0800000000000000
+      internalID: -4647242264207572453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_40
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1458
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce465ebd9e086310800000000000000
+      internalID: 1398383754964520652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1461
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e1b4dc05eb7800800000000000000
+      internalID: 611334017709630248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1461
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd0e3034bd91230800000000000000
+      internalID: 3610157657188523965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1461
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9090d1fd038237480800000000000000
+      internalID: -8902727848014575351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1311
+        width: 271
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a7d0c23aefb9c0800000000000000
+      internalID: -3909148447829680093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 888
+        width: 330
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee7808963fb2b90800000000000000
+      internalID: -7265445939378655564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1290
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a1c3a2a8a709ab0800000000000000
+      internalID: -5003364452175963625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8fddd0fb9912f50800000000000000
+      internalID: 6854929153685059835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1290
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5d7229ff362210800000000000000
+      internalID: 1307803081055755602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1290
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea7f6a227224fd0800000000000000
+      internalID: -2359280225005097222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f45c1fe4eaddabc0800000000000000
+      internalID: -3770116636240227080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_51
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1287
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c20ee4f95a6eb9b0800000000000000
+      internalID: -5062491996523986231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86bddb93f82e1650800000000000000
+      internalID: 6205442363320284814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1287
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e5b364b7ae3d70800000000000000
+      internalID: 9024835096505869954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_54
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75679abf1ed7d2430800000000000000
+      internalID: 3759799673467532887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b744408bca8ce270800000000000000
+      internalID: 8281146421462452152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1287
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef58136a8567370800000000000000
+      internalID: 8319934832432250378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1287
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a22bf97dff7130800000000000000
+      internalID: 3566848130246944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad52168a580dd900800000000000000
+      internalID: 710733501083835815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_59
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba87eacf99296550800000000000000
+      internalID: 6154496132059204283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1103
+        width: 181
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf928c7c59a8ef0800000000000000
+      internalID: -105106956000559658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_61
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1235
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf44e5c4c6be0d0800000000000000
+      internalID: -3392498819038643073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1232
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577e4c55486b0800800000000000000
+      internalID: 579671624157919071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3691df0d9b1e290800000000000000
+      internalID: -7862799167161539598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_64
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1235
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2a5b0c712205d40800000000000000
+      internalID: 5570990224470024949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_65
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1067
+        width: 250
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db399af922e41a0800000000000000
+      internalID: -6823478316279546551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_66
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1124
+        width: 204
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655e8e22e2098940800000000000000
+      internalID: 5298769607045043564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1087
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01463d16d86b12730800000000000000
+      internalID: 3972657064665375760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1087
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28a44bc7d6d7e10800000000000000
+      internalID: 2197032575594824423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1087
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40793a2d9887a8a90800000000000000
+      internalID: -7310898511742789884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1087
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b684938b1a3570800000000000000
+      internalID: 8447094303033309340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_71
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1087
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50058bf73e49794d0800000000000000
+      internalID: -3127867711364247547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1087
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78efddfb937ac62f0800000000000000
+      internalID: -978223152572268921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_73
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1087
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5ceffcd266ab40800000000000000
+      internalID: 5451153100304572141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_74
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1087
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb7a2c29aa5e380800000000000000
+      internalID: -8942553937766531194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1087
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56522228d67eea20800000000000000
+      internalID: 3093540664707798622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_76
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1087
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef80f6c414aef10800000000000000
+      internalID: 2299722356262239993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_77
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1087
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee473c10df080d0800000000000000
+      internalID: -3422457532785561997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_78
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1087
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c151c712a6ac3e970800000000000000
+      internalID: 8783086255479723292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_79
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1084
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5180163138520e0800000000000000
+      internalID: -2295284315819862549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 823
+        width: 123
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02064200db52340800000000000000
+      internalID: 4838481182987395234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_81
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 872
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13213c81f9f123010800000000000000
+      internalID: 1167030021618078257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 818
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16049f8056b53ffc0800000000000000
+      internalID: -3462323199017402271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_83
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 818
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c49cb9c53b22a7c0800000000000000
+      internalID: -4061636403916925760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 818
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca52849f228df200800000000000000
+      internalID: 215471498050296524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_85
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 808
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475023639cf742a0800000000000000
+      internalID: -6753151406265313461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_86
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 805
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59ddef4d167ee40800000000000000
+      internalID: 5685620622015436231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_87
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 672
+        width: 355
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc346089bc5fb90800000000000000
+      internalID: -7208631774736036051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 351
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d785f84f9185f0800000000000000
+      internalID: -756148126715750528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_89
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 808
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34dd5e488985580800000000000000
+      internalID: -8838146572155010139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_90
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 424
+        width: 354
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8ac573dfc819ba0800000000000000
+      internalID: -6083926602417395480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_91
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 656
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44725da2da6d01f0800000000000000
+      internalID: -1077087282788142005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_92
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 656
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65bcad033ccebc20800000000000000
+      internalID: 3224238902888674668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_93
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 656
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafaf588ba05e940800000000000000
+      internalID: 5324673922073557682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 653
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a3190d4373cec0800000000000000
+      internalID: -3547865306735859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_95
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e688e3a49e45aac0800000000000000
+      internalID: -3844580306578798873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_96
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 652
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6b457dee323150800000000000000
+      internalID: 5850808055503744613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_97
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 652
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe96e20da49af94b0800000000000000
+      internalID: -5431436486800152081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_98
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 652
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc4a4d687626ace0800000000000000
+      internalID: -1394384735953072900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_99
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 582
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f114c37d5e7662250800000000000000
+      internalID: 5919532997081317663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_100
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 581
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3e1b8dfa2598b70800000000000000
+      internalID: 8901737053682787296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_101
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 630
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ad396e4a504390800000000000000
+      internalID: -7836164058805067702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_102
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 627
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fd51a9bdaa79a0800000000000000
+      internalID: -6234479721353186520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_103
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 630
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289c8ae0b0be1500800000000000000
+      internalID: 368926493386774575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_104
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 627
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751192e068be9d00800000000000000
+      internalID: 981424495070877041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 581
+        width: 167
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1536166ae34cf0800000000000000
+      internalID: -269113828531954600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_106
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 563
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5015e8558ee0d20800000000000000
+      internalID: 3246787835538245112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_107
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 563
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f5353bdf8ccfc0800000000000000
+      internalID: -3473243040956156057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_108
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 563
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e52b648515e8b610800000000000000
+      internalID: 1637310345127863779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_109
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 563
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7addce3bd91f260800000000000000
+      internalID: 7129653081202862008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_110
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 563
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a2a3376d087c580800000000000000
+      internalID: -8806928887755167098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_111
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 563
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeea650fbbb43700800000000000000
+      internalID: 519246286158491357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_112
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 563
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d959500326bce0800000000000000
+      internalID: -1389884950591187052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 415
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03167a8f2bd855c0800000000000000
+      internalID: -4226387253054270709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_114
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aff05b0cc5540c0800000000000000
+      internalID: -4592162262293153220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 415
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac418cf95669f5c0800000000000000
+      internalID: -4181198242362340190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_116
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 415
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91791f747ec19bf80800000000000000
+      internalID: -8090403475924347111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_117
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 415
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008af13dd3fa29e0800000000000000
+      internalID: -1645234582498672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_118
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 425
+        width: 325
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ec6d343f0d3950800000000000000
+      internalID: 6430312559998198530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e95b80d249f0f70800000000000000
+      internalID: 9155699488608067204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_120
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995419cb7de47fb0800000000000000
+      internalID: -4650831399256565345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 415
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab85149224fd2aa0800000000000000
+      internalID: -6184018283959317598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_122
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 415
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3b2107ac2669df0800000000000000
+      internalID: -173842914003995702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_123
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca153946af3819360800000000000000
+      internalID: 7174660792830349740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_124
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0876065941c0650800000000000000
+      internalID: 6200353418782408921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_125
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 406
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee587c295eb36a90800000000000000
+      internalID: -7321799278966841617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_126
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 406
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aca51ac3328a0820800000000000000
+      internalID: 2885261670229585060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_127
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 409
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad95e8ab2055530800000000000000
+      internalID: 3842980857306012362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_128
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 409
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0257e21c454a480800000000000000
+      internalID: -8888886575837667162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_129
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 409
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e6927f07f85990800000000000000
+      internalID: -7396890742236978392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_130
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7f6d69a49f5eeb0800000000000000
+      internalID: -4691069338082936835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_131
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 409
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50652801a4308aa40800000000000000
+      internalID: 5379553371533497861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_132
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 409
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc071db7670446c0800000000000000
+      internalID: -4160192013648065287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_133
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 409
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22ec7a0e55306a0800000000000000
+      internalID: -6484244615107042620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_134
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 409
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e95784b039b4f610800000000000000
+      internalID: 1654150581990152674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_135
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 409
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24d543699259150800000000000000
+      internalID: 5878650613702410937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_136
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f51cc49d749ccf0800000000000000
+      internalID: -231574907211653295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_137
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8987e1a841c490800000000000000
+      internalID: -7727815625379575031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_138
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 409
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc52e35d6d3bf0420800000000000000
+      internalID: 2598493245298058699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_139
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8702820bd609317f0800000000000000
+      internalID: -643011521002594184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_140
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 409
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72cd6ac0aad29540800000000000000
+      internalID: 5013309719342596732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_141
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f899f8baa1a025130800000000000000
+      internalID: 3553914165612485007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_142
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 409
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef95a6c86a7171d0800000000000000
+      internalID: -3354765656986378258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_143
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 409
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbf1640ef7957c0800000000000000
+      internalID: -4082090986008757076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_144
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 409
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33715d2d7169b77d0800000000000000
+      internalID: -2919574904354040013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_145
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 409
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574df9931b282920800000000000000
+      internalID: 2965667717811357525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_146
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 409
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecbf04f667b93380800000000000000
+      internalID: -8990953528259265305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_147
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 409
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3377d4258332b1a0800000000000000
+      internalID: -6795312240806890691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_148
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 409
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc66a84ae2127e0800000000000000
+      internalID: -1792099892485239903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_149
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 409
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd47f19ec79426b0800000000000000
+      internalID: -5321961946177122826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_150
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 409
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e46090d1973d1ce0800000000000000
+      internalID: -1432928007025040154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_151
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 348
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd84c2adb496f020800000000000000
+      internalID: 2375249395685035462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_152
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4c3c49cd578050800000000000000
+      internalID: 5802709764039003575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75d769a70b4e1ae0800000000000000
+      internalID: -1576740323254086276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_154
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7445a1267c9a6bfa0800000000000000
+      internalID: -5785249997501344697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_155
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 403
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b235f8fe70ed00800000000000000
+      internalID: 999938725006980471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_156
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a9e2815f1fa950800000000000000
+      internalID: 6462418425249113574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_157
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 403
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01692fa3723071210800000000000000
+      internalID: 1303514084174632464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_158
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 403
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062e5b53e0c54990800000000000000
+      internalID: -7402298329790536187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_159
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f330356b2836cfaa0800000000000000
+      internalID: -6125911980074925249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 403
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca3fc9debde696d0800000000000000
+      internalID: -2983936299132568889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_161
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 403
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937b8eb902ee5c140800000000000000
+      internalID: 4739456006699398969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_162
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 406
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2defb45cafd6cbb0800000000000000
+      internalID: -4915996011979084500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_163
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 406
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc5680a3ff2f5b80800000000000000
+      internalID: -8403945656233337612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_164
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 347
+        width: 374
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef81642dcd2a8f0800000000000000
+      internalID: -530619010399011263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_165
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 268
+        width: 215
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591c441a989e7b80800000000000000
+      internalID: -8395104867839108776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_166
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 274
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af2ed6f4521f9e60800000000000000
+      internalID: 7971110021597376423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_167
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 83
+        width: 341
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d68b55f18f6270800000000000000
+      internalID: 8245952333541200941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 325
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516db9acffb2313b0800000000000000
+      internalID: -5543038338747083243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_169
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 325
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1771c320bc380ef0800000000000000
+      internalID: -141796661050378466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_170
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c015e1e30409d69e0800000000000000
+      internalID: -1626485284816400116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_171
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 325
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74aeacc5f27f070800000000000000
+      internalID: 8140026927083308960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_172
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 325
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2cd7826bdde4f60800000000000000
+      internalID: 8020591760826548897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 331
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c547a4ea30f1808f0800000000000000
+      internalID: -574174851820260260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_174
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 293
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170cba0118dbe630800000000000000
+      internalID: 3957494265281251097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_175
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 293
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026272ecc8dd030f0800000000000000
+      internalID: -1139167108900903392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_176
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 293
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923eae0fde08f1100800000000000000
+      internalID: 80925077753488169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_177
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 293
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1413ad1599ee4c7b0800000000000000
+      internalID: -5204772927062789823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_178
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 205
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7031429677031450800000000000000
+      internalID: 6058194129584730237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_179
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 185
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6886170a5d80b5c0800000000000000
+      internalID: -4201703034531182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_180
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 185
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60b0b51420143270800000000000000
+      internalID: 8229220166281506923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_181
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 185
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75d1d57e5b3b09c0800000000000000
+      internalID: -3960006170452568706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_182
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 185
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cfdc09568963970800000000000000
+      internalID: 8734336089320193126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_183
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 185
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7ff5f542a75e60800000000000000
+      internalID: 7951002088509505180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_184
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c6cba5af65b09d0800000000000000
+      internalID: -2807054309471261659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_185
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77899fcaa0d4f6a40800000000000000
+      internalID: 5363590389468600439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_186
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a15ec354c386430800000000000000
+      internalID: 3776334555622218337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_187
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ecc677189a1a60800000000000000
+      internalID: 7645590543959647826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_188
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19b60810a39b860800000000000000
+      internalID: 7546126428759888361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_189
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 179
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db740252b2be340800000000000000
+      internalID: 4894052858523532622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_190
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea50e6435f92d2c0800000000000000
+      internalID: -4408285905222083864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_191
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1afe39ae373730800000000000000
+      internalID: 3978717692432096638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_192
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299577bb8a23c9a80800000000000000
+      internalID: -8458830299827578478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_193
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e4b26d31780e50800000000000000
+      internalID: 6775790147841877281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 121
+        width: 285
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f0be0daf1d79650800000000000000
+      internalID: 6239686683922206513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioBors_195
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 121
+        width: 263
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f4087c7ce27620800000000000000
+      internalID: 2770536740119966597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SuperMarioBors_0: -2541531007675201710
+      SuperMarioBors_1: 1784634410461428545
+      SuperMarioBors_10: -6334188943214832372
+      SuperMarioBors_100: 8901737053682787296
+      SuperMarioBors_101: -7836164058805067702
+      SuperMarioBors_102: -6234479721353186520
+      SuperMarioBors_103: 368926493386774575
+      SuperMarioBors_104: 981424495070877041
+      SuperMarioBors_105: -269113828531954600
+      SuperMarioBors_106: 3246787835538245112
+      SuperMarioBors_107: -3473243040956156057
+      SuperMarioBors_108: 1637310345127863779
+      SuperMarioBors_109: 7129653081202862008
+      SuperMarioBors_11: -5904097552014785838
+      SuperMarioBors_110: -8806928887755167098
+      SuperMarioBors_111: 519246286158491357
+      SuperMarioBors_112: -1389884950591187052
+      SuperMarioBors_113: -4226387253054270709
+      SuperMarioBors_114: -4592162262293153220
+      SuperMarioBors_115: -4181198242362340190
+      SuperMarioBors_116: -8090403475924347111
+      SuperMarioBors_117: -1645234582498672633
+      SuperMarioBors_118: 6430312559998198530
+      SuperMarioBors_119: 9155699488608067204
+      SuperMarioBors_12: 8918759110295038580
+      SuperMarioBors_120: -4650831399256565345
+      SuperMarioBors_121: -6184018283959317598
+      SuperMarioBors_122: -173842914003995702
+      SuperMarioBors_123: 7174660792830349740
+      SuperMarioBors_124: 6200353418782408921
+      SuperMarioBors_125: -7321799278966841617
+      SuperMarioBors_126: 2885261670229585060
+      SuperMarioBors_127: 3842980857306012362
+      SuperMarioBors_128: -8888886575837667162
+      SuperMarioBors_129: -7396890742236978392
+      SuperMarioBors_13: 8603214219974991599
+      SuperMarioBors_130: -4691069338082936835
+      SuperMarioBors_131: 5379553371533497861
+      SuperMarioBors_132: -4160192013648065287
+      SuperMarioBors_133: -6484244615107042620
+      SuperMarioBors_134: 1654150581990152674
+      SuperMarioBors_135: 5878650613702410937
+      SuperMarioBors_136: -231574907211653295
+      SuperMarioBors_137: -7727815625379575031
+      SuperMarioBors_138: 2598493245298058699
+      SuperMarioBors_139: -643011521002594184
+      SuperMarioBors_14: 9121626439539668841
+      SuperMarioBors_140: 5013309719342596732
+      SuperMarioBors_141: 3553914165612485007
+      SuperMarioBors_142: -3354765656986378258
+      SuperMarioBors_143: -4082090986008757076
+      SuperMarioBors_144: -2919574904354040013
+      SuperMarioBors_145: 2965667717811357525
+      SuperMarioBors_146: -8990953528259265305
+      SuperMarioBors_147: -6795312240806890691
+      SuperMarioBors_148: -1792099892485239903
+      SuperMarioBors_149: -5321961946177122826
+      SuperMarioBors_15: -1149260429486205697
+      SuperMarioBors_150: -1432928007025040154
+      SuperMarioBors_151: 2375249395685035462
+      SuperMarioBors_152: 5802709764039003575
+      SuperMarioBors_153: -1576740323254086276
+      SuperMarioBors_154: -5785249997501344697
+      SuperMarioBors_155: 999938725006980471
+      SuperMarioBors_156: 6462418425249113574
+      SuperMarioBors_157: 1303514084174632464
+      SuperMarioBors_158: -7402298329790536187
+      SuperMarioBors_159: -6125911980074925249
+      SuperMarioBors_16: 6639246239043377101
+      SuperMarioBors_160: -2983936299132568889
+      SuperMarioBors_161: 4739456006699398969
+      SuperMarioBors_162: -4915996011979084500
+      SuperMarioBors_163: -8403945656233337612
+      SuperMarioBors_164: -530619010399011263
+      SuperMarioBors_165: -8395104867839108776
+      SuperMarioBors_166: 7971110021597376423
+      SuperMarioBors_167: 8245952333541200941
+      SuperMarioBors_168: -5543038338747083243
+      SuperMarioBors_169: -141796661050378466
+      SuperMarioBors_17: 1907347216036317925
+      SuperMarioBors_170: -1626485284816400116
+      SuperMarioBors_171: 8140026927083308960
+      SuperMarioBors_172: 8020591760826548897
+      SuperMarioBors_173: -574174851820260260
+      SuperMarioBors_174: 3957494265281251097
+      SuperMarioBors_175: -1139167108900903392
+      SuperMarioBors_176: 80925077753488169
+      SuperMarioBors_177: -5204772927062789823
+      SuperMarioBors_178: 6058194129584730237
+      SuperMarioBors_179: -4201703034531182481
+      SuperMarioBors_18: -2474029021199572425
+      SuperMarioBors_180: 8229220166281506923
+      SuperMarioBors_181: -3960006170452568706
+      SuperMarioBors_182: 8734336089320193126
+      SuperMarioBors_183: 7951002088509505180
+      SuperMarioBors_184: -2807054309471261659
+      SuperMarioBors_185: 5363590389468600439
+      SuperMarioBors_186: 3776334555622218337
+      SuperMarioBors_187: 7645590543959647826
+      SuperMarioBors_188: 7546126428759888361
+      SuperMarioBors_189: 4894052858523532622
+      SuperMarioBors_19: -58569139823450239
+      SuperMarioBors_190: -4408285905222083864
+      SuperMarioBors_191: 3978717692432096638
+      SuperMarioBors_192: -8458830299827578478
+      SuperMarioBors_193: 6775790147841877281
+      SuperMarioBors_194: 6239686683922206513
+      SuperMarioBors_195: 2770536740119966597
+      SuperMarioBors_2: -2141596824374549521
+      SuperMarioBors_20: -4063106203158013600
+      SuperMarioBors_21: 674485139743516577
+      SuperMarioBors_22: -4492354355725634799
+      SuperMarioBors_23: 5426375639878345699
+      SuperMarioBors_24: 2408741453671567914
+      SuperMarioBors_25: 1798205978655980185
+      SuperMarioBors_26: 7890340634166901781
+      SuperMarioBors_27: 2735689051551046944
+      SuperMarioBors_28: 6758345616989975135
+      SuperMarioBors_29: -2241061579135653767
+      SuperMarioBors_3: 3372274184975982967
+      SuperMarioBors_30: -1711835735135804452
+      SuperMarioBors_31: -5464766404893153220
+      SuperMarioBors_32: 4110818971860027957
+      SuperMarioBors_33: 4362957578207474597
+      SuperMarioBors_34: -4135043458599831138
+      SuperMarioBors_35: -2642407371261733812
+      SuperMarioBors_36: -7079111135067913238
+      SuperMarioBors_37: -3145837129006488080
+      SuperMarioBors_38: 2813592501699445692
+      SuperMarioBors_39: -4647242264207572453
+      SuperMarioBors_4: 3373158879740680995
+      SuperMarioBors_40: 1398383754964520652
+      SuperMarioBors_41: 611334017709630248
+      SuperMarioBors_42: 3610157657188523965
+      SuperMarioBors_43: -8902727848014575351
+      SuperMarioBors_44: -3909148447829680093
+      SuperMarioBors_45: -7265445939378655564
+      SuperMarioBors_46: -5003364452175963625
+      SuperMarioBors_47: 6854929153685059835
+      SuperMarioBors_48: 1307803081055755602
+      SuperMarioBors_49: -2359280225005097222
+      SuperMarioBors_5: -3333698856197399143
+      SuperMarioBors_50: -3770116636240227080
+      SuperMarioBors_51: -5062491996523986231
+      SuperMarioBors_52: 6205442363320284814
+      SuperMarioBors_53: 9024835096505869954
+      SuperMarioBors_54: 3759799673467532887
+      SuperMarioBors_55: 8281146421462452152
+      SuperMarioBors_56: 8319934832432250378
+      SuperMarioBors_57: 3566848130246944075
+      SuperMarioBors_58: 710733501083835815
+      SuperMarioBors_59: 6154496132059204283
+      SuperMarioBors_6: 8607155182405009676
+      SuperMarioBors_60: -105106956000559658
+      SuperMarioBors_61: -3392498819038643073
+      SuperMarioBors_62: 579671624157919071
+      SuperMarioBors_63: -7862799167161539598
+      SuperMarioBors_64: 5570990224470024949
+      SuperMarioBors_65: -6823478316279546551
+      SuperMarioBors_66: 5298769607045043564
+      SuperMarioBors_67: 3972657064665375760
+      SuperMarioBors_68: 2197032575594824423
+      SuperMarioBors_69: -7310898511742789884
+      SuperMarioBors_7: 2591442153711971625
+      SuperMarioBors_70: 8447094303033309340
+      SuperMarioBors_71: -3127867711364247547
+      SuperMarioBors_72: -978223152572268921
+      SuperMarioBors_73: 5451153100304572141
+      SuperMarioBors_74: -8942553937766531194
+      SuperMarioBors_75: 3093540664707798622
+      SuperMarioBors_76: 2299722356262239993
+      SuperMarioBors_77: -3422457532785561997
+      SuperMarioBors_78: 8783086255479723292
+      SuperMarioBors_79: -2295284315819862549
+      SuperMarioBors_8: 8128391327733765038
+      SuperMarioBors_80: 4838481182987395234
+      SuperMarioBors_81: 1167030021618078257
+      SuperMarioBors_82: -3462323199017402271
+      SuperMarioBors_83: -4061636403916925760
+      SuperMarioBors_84: 215471498050296524
+      SuperMarioBors_85: -6753151406265313461
+      SuperMarioBors_86: 5685620622015436231
+      SuperMarioBors_87: -7208631774736036051
+      SuperMarioBors_88: -756148126715750528
+      SuperMarioBors_89: -8838146572155010139
+      SuperMarioBors_9: 5171021061336277820
+      SuperMarioBors_90: -6083926602417395480
+      SuperMarioBors_91: -1077087282788142005
+      SuperMarioBors_92: 3224238902888674668
+      SuperMarioBors_93: 5324673922073557682
+      SuperMarioBors_94: -3547865306735859387
+      SuperMarioBors_95: -3844580306578798873
+      SuperMarioBors_96: 5850808055503744613
+      SuperMarioBors_97: -5431436486800152081
+      SuperMarioBors_98: -1394384735953072900
+      SuperMarioBors_99: 5919532997081317663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

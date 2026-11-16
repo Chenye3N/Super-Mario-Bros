@@ -1,0 +1,2075 @@
+{
+ "CommonObjects": [
+  {
+   "file": "CommonObjects_01.png",
+   "x": 16,
+   "y": 43,
+   "w": 32,
+   "h": 35
+  },
+  {
+   "file": "CommonObjects_02.png",
+   "x": 62,
+   "y": 31,
+   "w": 32,
+   "h": 359
+  },
+  {
+   "file": "CommonObjects_03.png",
+   "x": 119,
+   "y": 33,
+   "w": 34,
+   "h": 33
+  },
+  {
+   "file": "CommonObjects_04.png",
+   "x": 165,
+   "y": 30,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "file": "CommonObjects_05.png",
+   "x": 187,
+   "y": 29,
+   "w": 34,
+   "h": 33
+  },
+  {
+   "file": "CommonObjects_06.png",
+   "x": 236,
+   "y": 28,
+   "w": 32,
+   "h": 35
+  },
+  {
+   "file": "CommonObjects_07.png",
+   "x": 275,
+   "y": 29,
+   "w": 32,
+   "h": 33
+  },
+  {
+   "file": "CommonObjects_08.png",
+   "x": 165,
+   "y": 51,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "file": "CommonObjects_09.png",
+   "x": 110,
+   "y": 86,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "file": "CommonObjects_10.png",
+   "x": 141,
+   "y": 86,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "file": "CommonObjects_11.png",
+   "x": 174,
+   "y": 86,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "file": "CommonObjects_12.png",
+   "x": 201,
+   "y": 93,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "CommonObjects_13.png",
+   "x": 240,
+   "y": 93,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "CommonObjects_14.png",
+   "x": 278,
+   "y": 93,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "CommonObjects_15.png",
+   "x": 105,
+   "y": 113,
+   "w": 20,
+   "h": 30
+  },
+  {
+   "file": "CommonObjects_16.png",
+   "x": 136,
+   "y": 113,
+   "w": 20,
+   "h": 30
+  },
+  {
+   "file": "CommonObjects_17.png",
+   "x": 171,
+   "y": 113,
+   "w": 20,
+   "h": 30
+  },
+  {
+   "file": "CommonObjects_18.png",
+   "x": 202,
+   "y": 135,
+   "w": 32,
+   "h": 35
+  },
+  {
+   "file": "CommonObjects_19.png",
+   "x": 244,
+   "y": 137,
+   "w": 33,
+   "h": 34
+  },
+  {
+   "file": "CommonObjects_20.png",
+   "x": 112,
+   "y": 162,
+   "w": 16,
+   "h": 28
+  },
+  {
+   "file": "CommonObjects_21.png",
+   "x": 141,
+   "y": 162,
+   "w": 8,
+   "h": 28
+  },
+  {
+   "file": "CommonObjects_22.png",
+   "x": 162,
+   "y": 162,
+   "w": 2,
+   "h": 12
+  },
+  {
+   "file": "CommonObjects_23.png",
+   "x": 177,
+   "y": 162,
+   "w": 8,
+   "h": 28
+  },
+  {
+   "file": "CommonObjects_24.png",
+   "x": 162,
+   "y": 178,
+   "w": 2,
+   "h": 12
+  },
+  {
+   "file": "CommonObjects_25.png",
+   "x": 108,
+   "y": 220,
+   "w": 165,
+   "h": 172
+  }
+ ],
+ "PowerUps": [
+  {
+   "file": "PowerUps_01.png",
+   "x": 328,
+   "y": 33,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_02.png",
+   "x": 365,
+   "y": 33,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_03.png",
+   "x": 333,
+   "y": 82,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_04.png",
+   "x": 371,
+   "y": 83,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_05.png",
+   "x": 412,
+   "y": 83,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_06.png",
+   "x": 451,
+   "y": 83,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_07.png",
+   "x": 333,
+   "y": 125,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_08.png",
+   "x": 375,
+   "y": 126,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_09.png",
+   "x": 417,
+   "y": 126,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_10.png",
+   "x": 458,
+   "y": 127,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_11.png",
+   "x": 334,
+   "y": 170,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_12.png",
+   "x": 368,
+   "y": 170,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_13.png",
+   "x": 405,
+   "y": 169,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "PowerUps_14.png",
+   "x": 439,
+   "y": 169,
+   "w": 28,
+   "h": 32
+  }
+ ],
+ "OutsideScenery": [
+  {
+   "file": "OutsideScenery_01.png",
+   "x": 621,
+   "y": 38,
+   "w": 64,
+   "h": 52
+  },
+  {
+   "file": "OutsideScenery_02.png",
+   "x": 703,
+   "y": 39,
+   "w": 100,
+   "h": 52
+  },
+  {
+   "file": "OutsideScenery_03.png",
+   "x": 620,
+   "y": 105,
+   "w": 96,
+   "h": 16
+  },
+  {
+   "file": "OutsideScenery_04.png",
+   "x": 742,
+   "y": 98,
+   "w": 32,
+   "h": 34
+  },
+  {
+   "file": "OutsideScenery_05.png",
+   "x": 745,
+   "y": 104,
+   "w": 160,
+   "h": 75
+  },
+  {
+   "file": "OutsideScenery_06.png",
+   "x": 633,
+   "y": 139,
+   "w": 96,
+   "h": 41
+  },
+  {
+   "file": "OutsideScenery_07.png",
+   "x": 625,
+   "y": 217,
+   "w": 192,
+   "h": 34
+  },
+  {
+   "file": "OutsideScenery_08.png",
+   "x": 871,
+   "y": 202,
+   "w": 32,
+   "h": 99
+  },
+  {
+   "file": "OutsideScenery_09.png",
+   "x": 835,
+   "y": 237,
+   "w": 28,
+   "h": 64
+  },
+  {
+   "file": "OutsideScenery_10.png",
+   "x": 621,
+   "y": 274,
+   "w": 117,
+   "h": 82
+  },
+  {
+   "file": "OutsideScenery_11.png",
+   "x": 754,
+   "y": 320,
+   "w": 129,
+   "h": 34
+  },
+  {
+   "file": "OutsideScenery_12.png",
+   "x": 616,
+   "y": 373,
+   "w": 129,
+   "h": 81
+  },
+  {
+   "file": "OutsideScenery_13.png",
+   "x": 763,
+   "y": 416,
+   "w": 128,
+   "h": 34
+  }
+ ],
+ "HelpfulObjects": [
+  {
+   "file": "HelpfulObjects_01.png",
+   "x": 504,
+   "y": 276,
+   "w": 48,
+   "h": 14
+  },
+  {
+   "file": "HelpfulObjects_02.png",
+   "x": 496,
+   "y": 306,
+   "w": 64,
+   "h": 14
+  },
+  {
+   "file": "HelpfulObjects_03.png",
+   "x": 413,
+   "y": 340,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "HelpfulObjects_04.png",
+   "x": 457,
+   "y": 339,
+   "w": 28,
+   "h": 50
+  },
+  {
+   "file": "HelpfulObjects_05.png",
+   "x": 480,
+   "y": 332,
+   "w": 96,
+   "h": 14
+  },
+  {
+   "file": "HelpfulObjects_06.png",
+   "x": 379,
+   "y": 356,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "HelpfulObjects_07.png",
+   "x": 345,
+   "y": 372,
+   "w": 32,
+   "h": 16
+  }
+ ],
+ "Castle": [
+  {
+   "file": "Castle_01.png",
+   "x": 27,
+   "y": 440,
+   "w": 287,
+   "h": 378
+  }
+ ],
+ "BowserCastle": [
+  {
+   "file": "BowserCastle_01.png",
+   "x": 343,
+   "y": 428,
+   "w": 177,
+   "h": 178
+  }
+ ],
+ "Pipes": [
+  {
+   "file": "Pipes_01.png",
+   "x": 540,
+   "y": 493,
+   "w": 65,
+   "h": 138
+  },
+  {
+   "file": "Pipes_02.png",
+   "x": 622,
+   "y": 502,
+   "w": 142,
+   "h": 133
+  }
+ ],
+ "BackgroundColours": [
+  {
+   "file": "BackgroundColours_01.png",
+   "x": 801,
+   "y": 512,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "file": "BackgroundColours_02.png",
+   "x": 865,
+   "y": 512,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "file": "BackgroundColours_03.png",
+   "x": 935,
+   "y": 512,
+   "w": 53,
+   "h": 53
+  }
+ ],
+ "UnderwaterScenery": [
+  {
+   "file": "UnderwaterScenery_01.png",
+   "x": 364,
+   "y": 651,
+   "w": 87,
+   "h": 137
+  },
+  {
+   "file": "UnderwaterScenery_02.png",
+   "x": 346,
+   "y": 801,
+   "w": 117,
+   "h": 82
+  }
+ ],
+ "Transformed": [
+  {
+   "file": "Transformed_01.png",
+   "x": 743,
+   "y": 857,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_02.png",
+   "x": 803,
+   "y": 857,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_03.png",
+   "x": 863,
+   "y": 857,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_04.png",
+   "x": 923,
+   "y": 857,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_05.png",
+   "x": 981,
+   "y": 872,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Transformed_06.png",
+   "x": 1041,
+   "y": 874,
+   "w": 32,
+   "h": 28
+  },
+  {
+   "file": "Transformed_07.png",
+   "x": 743,
+   "y": 917,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_08.png",
+   "x": 803,
+   "y": 917,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_09.png",
+   "x": 863,
+   "y": 917,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_10.png",
+   "x": 923,
+   "y": 917,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_11.png",
+   "x": 981,
+   "y": 932,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Transformed_12.png",
+   "x": 1041,
+   "y": 934,
+   "w": 32,
+   "h": 28
+  },
+  {
+   "file": "Transformed_13.png",
+   "x": 743,
+   "y": 977,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_14.png",
+   "x": 803,
+   "y": 977,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_15.png",
+   "x": 863,
+   "y": 977,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Transformed_16.png",
+   "x": 923,
+   "y": 977,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Transformed_17.png",
+   "x": 981,
+   "y": 992,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Transformed_18.png",
+   "x": 1041,
+   "y": 994,
+   "w": 32,
+   "h": 28
+  }
+ ],
+ "Mario": [
+  {
+   "file": "Mario_01.png",
+   "x": 21,
+   "y": 904,
+   "w": 26,
+   "h": 32
+  },
+  {
+   "file": "Mario_02.png",
+   "x": 66,
+   "y": 907,
+   "w": 30,
+   "h": 28
+  },
+  {
+   "file": "Mario_03.png",
+   "x": 109,
+   "y": 905,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "Mario_04.png",
+   "x": 146,
+   "y": 904,
+   "w": 24,
+   "h": 32
+  },
+  {
+   "file": "Mario_05.png",
+   "x": 175,
+   "y": 905,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Mario_06.png",
+   "x": 209,
+   "y": 904,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Mario_07.png",
+   "x": 253,
+   "y": 903,
+   "w": 34,
+   "h": 32
+  },
+  {
+   "file": "Mario_08.png",
+   "x": 21,
+   "y": 944,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "Mario_09.png",
+   "x": 72,
+   "y": 945,
+   "w": 26,
+   "h": 30
+  },
+  {
+   "file": "Mario_10.png",
+   "x": 112,
+   "y": 946,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Mario_11.png",
+   "x": 156,
+   "y": 946,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Mario_12.png",
+   "x": 202,
+   "y": 945,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Mario_13.png",
+   "x": 252,
+   "y": 946,
+   "w": 30,
+   "h": 30
+  },
+  {
+   "file": "Mario_14.png",
+   "x": 23,
+   "y": 1007,
+   "w": 32,
+   "h": 44
+  },
+  {
+   "file": "Mario_15.png",
+   "x": 72,
+   "y": 985,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_16.png",
+   "x": 118,
+   "y": 985,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_17.png",
+   "x": 165,
+   "y": 988,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "Mario_18.png",
+   "x": 206,
+   "y": 988,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Mario_19.png",
+   "x": 255,
+   "y": 986,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_20.png",
+   "x": 309,
+   "y": 981,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_21.png",
+   "x": 16,
+   "y": 1065,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Mario_22.png",
+   "x": 67,
+   "y": 1066,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Mario_23.png",
+   "x": 103,
+   "y": 1067,
+   "w": 28,
+   "h": 54
+  },
+  {
+   "file": "Mario_24.png",
+   "x": 149,
+   "y": 1063,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Mario_25.png",
+   "x": 193,
+   "y": 1062,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Mario_26.png",
+   "x": 234,
+   "y": 1063,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Mario_27.png",
+   "x": 272,
+   "y": 1061,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Mario_28.png",
+   "x": 304,
+   "y": 1061,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Mario_29.png",
+   "x": 17,
+   "y": 1153,
+   "w": 32,
+   "h": 44
+  },
+  {
+   "file": "Mario_30.png",
+   "x": 65,
+   "y": 1133,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_31.png",
+   "x": 116,
+   "y": 1133,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_32.png",
+   "x": 163,
+   "y": 1133,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "Mario_33.png",
+   "x": 204,
+   "y": 1133,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Mario_34.png",
+   "x": 256,
+   "y": 1132,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Mario_35.png",
+   "x": 307,
+   "y": 1129,
+   "w": 32,
+   "h": 63
+  },
+  {
+   "file": "Mario_36.png",
+   "x": 13,
+   "y": 1211,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Mario_37.png",
+   "x": 60,
+   "y": 1211,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Mario_38.png",
+   "x": 110,
+   "y": 1212,
+   "w": 28,
+   "h": 54
+  },
+  {
+   "file": "Mario_39.png",
+   "x": 154,
+   "y": 1207,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Mario_40.png",
+   "x": 201,
+   "y": 1208,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Mario_41.png",
+   "x": 245,
+   "y": 1209,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Mario_42.png",
+   "x": 280,
+   "y": 1209,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Mario_43.png",
+   "x": 319,
+   "y": 1210,
+   "w": 32,
+   "h": 58
+  }
+ ],
+ "Luigi": [
+  {
+   "file": "Luigi_01.png",
+   "x": 377,
+   "y": 915,
+   "w": 26,
+   "h": 32
+  },
+  {
+   "file": "Luigi_02.png",
+   "x": 422,
+   "y": 918,
+   "w": 30,
+   "h": 28
+  },
+  {
+   "file": "Luigi_03.png",
+   "x": 465,
+   "y": 916,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "Luigi_04.png",
+   "x": 502,
+   "y": 915,
+   "w": 24,
+   "h": 32
+  },
+  {
+   "file": "Luigi_05.png",
+   "x": 531,
+   "y": 916,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Luigi_06.png",
+   "x": 565,
+   "y": 915,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Luigi_07.png",
+   "x": 609,
+   "y": 914,
+   "w": 34,
+   "h": 32
+  },
+  {
+   "file": "Luigi_08.png",
+   "x": 377,
+   "y": 955,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "Luigi_09.png",
+   "x": 428,
+   "y": 956,
+   "w": 26,
+   "h": 30
+  },
+  {
+   "file": "Luigi_10.png",
+   "x": 468,
+   "y": 957,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Luigi_11.png",
+   "x": 512,
+   "y": 957,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Luigi_12.png",
+   "x": 558,
+   "y": 956,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "Luigi_13.png",
+   "x": 608,
+   "y": 957,
+   "w": 30,
+   "h": 30
+  },
+  {
+   "file": "Luigi_14.png",
+   "x": 379,
+   "y": 1018,
+   "w": 32,
+   "h": 44
+  },
+  {
+   "file": "Luigi_15.png",
+   "x": 428,
+   "y": 996,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_16.png",
+   "x": 474,
+   "y": 996,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_17.png",
+   "x": 521,
+   "y": 999,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "Luigi_18.png",
+   "x": 562,
+   "y": 999,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Luigi_19.png",
+   "x": 611,
+   "y": 997,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_20.png",
+   "x": 665,
+   "y": 992,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_21.png",
+   "x": 376,
+   "y": 1078,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Luigi_22.png",
+   "x": 427,
+   "y": 1079,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Luigi_23.png",
+   "x": 463,
+   "y": 1080,
+   "w": 28,
+   "h": 54
+  },
+  {
+   "file": "Luigi_24.png",
+   "x": 509,
+   "y": 1076,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Luigi_25.png",
+   "x": 553,
+   "y": 1075,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Luigi_26.png",
+   "x": 594,
+   "y": 1076,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Luigi_27.png",
+   "x": 632,
+   "y": 1074,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Luigi_28.png",
+   "x": 664,
+   "y": 1074,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Luigi_29.png",
+   "x": 377,
+   "y": 1166,
+   "w": 32,
+   "h": 44
+  },
+  {
+   "file": "Luigi_30.png",
+   "x": 425,
+   "y": 1146,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_31.png",
+   "x": 476,
+   "y": 1146,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_32.png",
+   "x": 523,
+   "y": 1146,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "Luigi_33.png",
+   "x": 564,
+   "y": 1146,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Luigi_34.png",
+   "x": 616,
+   "y": 1145,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "Luigi_35.png",
+   "x": 667,
+   "y": 1142,
+   "w": 32,
+   "h": 63
+  },
+  {
+   "file": "Luigi_36.png",
+   "x": 373,
+   "y": 1224,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Luigi_37.png",
+   "x": 420,
+   "y": 1224,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Luigi_38.png",
+   "x": 470,
+   "y": 1225,
+   "w": 28,
+   "h": 54
+  },
+  {
+   "file": "Luigi_39.png",
+   "x": 514,
+   "y": 1220,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "Luigi_40.png",
+   "x": 561,
+   "y": 1221,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Luigi_41.png",
+   "x": 605,
+   "y": 1222,
+   "w": 28,
+   "h": 60
+  },
+  {
+   "file": "Luigi_42.png",
+   "x": 640,
+   "y": 1222,
+   "w": 32,
+   "h": 58
+  },
+  {
+   "file": "Luigi_43.png",
+   "x": 679,
+   "y": 1223,
+   "w": 32,
+   "h": 58
+  }
+ ],
+ "Bloopa": [
+  {
+   "file": "Bloopa_01.png",
+   "x": 742,
+   "y": 1083,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Bloopa_02.png",
+   "x": 782,
+   "y": 1073,
+   "w": 32,
+   "h": 48
+  }
+ ],
+ "Lakitu": [
+  {
+   "file": "Lakitu_01.png",
+   "x": 841,
+   "y": 1073,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Lakitu_02.png",
+   "x": 880,
+   "y": 1090,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Lakitu_03.png",
+   "x": 917,
+   "y": 1075,
+   "w": 32,
+   "h": 48
+  }
+ ],
+ "Spiny": [
+  {
+   "file": "Spiny_01.png",
+   "x": 966,
+   "y": 1092,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Spiny_02.png",
+   "x": 1008,
+   "y": 1094,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Spiny_03.png",
+   "x": 1052,
+   "y": 1093,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "Spiny_04.png",
+   "x": 1088,
+   "y": 1094,
+   "w": 28,
+   "h": 32
+  }
+ ],
+ "HammerBros": [
+  {
+   "file": "HammerBros_01.png",
+   "x": 758,
+   "y": 1165,
+   "w": 30,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_02.png",
+   "x": 818,
+   "y": 1165,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_03.png",
+   "x": 878,
+   "y": 1165,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_04.png",
+   "x": 1019,
+   "y": 1184,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "file": "HammerBros_05.png",
+   "x": 934,
+   "y": 1198,
+   "w": 12,
+   "h": 16
+  },
+  {
+   "file": "HammerBros_06.png",
+   "x": 965,
+   "y": 1200,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "file": "HammerBros_07.png",
+   "x": 1003,
+   "y": 1198,
+   "w": 12,
+   "h": 16
+  },
+  {
+   "file": "HammerBros_08.png",
+   "x": 758,
+   "y": 1225,
+   "w": 30,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_09.png",
+   "x": 818,
+   "y": 1225,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_10.png",
+   "x": 878,
+   "y": 1225,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "HammerBros_11.png",
+   "x": 928,
+   "y": 1232,
+   "w": 12,
+   "h": 16
+  },
+  {
+   "file": "HammerBros_12.png",
+   "x": 1004,
+   "y": 1227,
+   "w": 12,
+   "h": 16
+  },
+  {
+   "file": "HammerBros_13.png",
+   "x": 1026,
+   "y": 1231,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "file": "HammerBros_14.png",
+   "x": 966,
+   "y": 1248,
+   "w": 16,
+   "h": 14
+  }
+ ],
+ "PrincessAndToad": [
+  {
+   "file": "PrincessAndToad_01.png",
+   "x": 21,
+   "y": 1309,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "PrincessAndToad_02.png",
+   "x": 70,
+   "y": 1309,
+   "w": 28,
+   "h": 48
+  }
+ ],
+ "Goombas": [
+  {
+   "file": "Goombas_01.png",
+   "x": 129,
+   "y": 1321,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_02.png",
+   "x": 170,
+   "y": 1321,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_03.png",
+   "x": 211,
+   "y": 1336,
+   "w": 32,
+   "h": 16
+  },
+  {
+   "file": "Goombas_04.png",
+   "x": 261,
+   "y": 1322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_05.png",
+   "x": 299,
+   "y": 1322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_06.png",
+   "x": 374,
+   "y": 1322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_07.png",
+   "x": 410,
+   "y": 1322,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Goombas_08.png",
+   "x": 447,
+   "y": 1337,
+   "w": 32,
+   "h": 16
+  },
+  {
+   "file": "Goombas_09.png",
+   "x": 335,
+   "y": 1338,
+   "w": 32,
+   "h": 16
+  }
+ ],
+ "Beetle": [
+  {
+   "file": "Beetle_01.png",
+   "x": 513,
+   "y": 1321,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Beetle_02.png",
+   "x": 552,
+   "y": 1321,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_03.png",
+   "x": 591,
+   "y": 1320,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_04.png",
+   "x": 629,
+   "y": 1320,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_05.png",
+   "x": 668,
+   "y": 1319,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Beetle_06.png",
+   "x": 517,
+   "y": 1361,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Beetle_07.png",
+   "x": 554,
+   "y": 1362,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_08.png",
+   "x": 590,
+   "y": 1362,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_09.png",
+   "x": 628,
+   "y": 1361,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_10.png",
+   "x": 664,
+   "y": 1360,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Beetle_11.png",
+   "x": 516,
+   "y": 1402,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "Beetle_12.png",
+   "x": 554,
+   "y": 1402,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_13.png",
+   "x": 592,
+   "y": 1403,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_14.png",
+   "x": 631,
+   "y": 1403,
+   "w": 32,
+   "h": 30
+  },
+  {
+   "file": "Beetle_15.png",
+   "x": 669,
+   "y": 1402,
+   "w": 32,
+   "h": 32
+  }
+ ],
+ "Piranha": [
+  {
+   "file": "Piranha_01.png",
+   "x": 739,
+   "y": 1322,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Piranha_02.png",
+   "x": 792,
+   "y": 1325,
+   "w": 32,
+   "h": 46
+  },
+  {
+   "file": "Piranha_03.png",
+   "x": 739,
+   "y": 1382,
+   "w": 32,
+   "h": 48
+  },
+  {
+   "file": "Piranha_04.png",
+   "x": 792,
+   "y": 1385,
+   "w": 32,
+   "h": 46
+  }
+ ],
+ "StarPower": [
+  {
+   "file": "StarPower_01.png",
+   "x": 844,
+   "y": 1317,
+   "w": 26,
+   "h": 32
+  },
+  {
+   "file": "StarPower_02.png",
+   "x": 889,
+   "y": 1320,
+   "w": 30,
+   "h": 28
+  },
+  {
+   "file": "StarPower_03.png",
+   "x": 932,
+   "y": 1318,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "StarPower_04.png",
+   "x": 969,
+   "y": 1317,
+   "w": 24,
+   "h": 32
+  },
+  {
+   "file": "StarPower_05.png",
+   "x": 998,
+   "y": 1318,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_06.png",
+   "x": 1032,
+   "y": 1317,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "StarPower_07.png",
+   "x": 1076,
+   "y": 1316,
+   "w": 34,
+   "h": 32
+  },
+  {
+   "file": "StarPower_08.png",
+   "x": 844,
+   "y": 1357,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "StarPower_09.png",
+   "x": 895,
+   "y": 1358,
+   "w": 26,
+   "h": 30
+  },
+  {
+   "file": "StarPower_10.png",
+   "x": 935,
+   "y": 1359,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_11.png",
+   "x": 979,
+   "y": 1359,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_12.png",
+   "x": 1025,
+   "y": 1358,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_13.png",
+   "x": 1075,
+   "y": 1359,
+   "w": 30,
+   "h": 30
+  },
+  {
+   "file": "StarPower_14.png",
+   "x": 895,
+   "y": 1398,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_15.png",
+   "x": 941,
+   "y": 1398,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_16.png",
+   "x": 988,
+   "y": 1401,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "StarPower_17.png",
+   "x": 1029,
+   "y": 1401,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "StarPower_18.png",
+   "x": 1078,
+   "y": 1399,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_19.png",
+   "x": 1132,
+   "y": 1394,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_20.png",
+   "x": 846,
+   "y": 1420,
+   "w": 32,
+   "h": 44
+  },
+  {
+   "file": "StarPower_21.png",
+   "x": 845,
+   "y": 1472,
+   "w": 26,
+   "h": 32
+  },
+  {
+   "file": "StarPower_22.png",
+   "x": 890,
+   "y": 1475,
+   "w": 30,
+   "h": 28
+  },
+  {
+   "file": "StarPower_23.png",
+   "x": 933,
+   "y": 1473,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "StarPower_24.png",
+   "x": 970,
+   "y": 1472,
+   "w": 24,
+   "h": 32
+  },
+  {
+   "file": "StarPower_25.png",
+   "x": 999,
+   "y": 1473,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_26.png",
+   "x": 1033,
+   "y": 1472,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "StarPower_27.png",
+   "x": 1077,
+   "y": 1471,
+   "w": 34,
+   "h": 32
+  },
+  {
+   "file": "StarPower_28.png",
+   "x": 845,
+   "y": 1512,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "StarPower_29.png",
+   "x": 896,
+   "y": 1513,
+   "w": 26,
+   "h": 30
+  },
+  {
+   "file": "StarPower_30.png",
+   "x": 936,
+   "y": 1514,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_31.png",
+   "x": 980,
+   "y": 1514,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_32.png",
+   "x": 1026,
+   "y": 1513,
+   "w": 28,
+   "h": 30
+  },
+  {
+   "file": "StarPower_33.png",
+   "x": 1076,
+   "y": 1514,
+   "w": 30,
+   "h": 30
+  },
+  {
+   "file": "StarPower_34.png",
+   "x": 896,
+   "y": 1553,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_35.png",
+   "x": 942,
+   "y": 1553,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_36.png",
+   "x": 989,
+   "y": 1556,
+   "w": 28,
+   "h": 62
+  },
+  {
+   "file": "StarPower_37.png",
+   "x": 1030,
+   "y": 1556,
+   "w": 32,
+   "h": 60
+  },
+  {
+   "file": "StarPower_38.png",
+   "x": 1079,
+   "y": 1554,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_39.png",
+   "x": 1133,
+   "y": 1549,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "StarPower_40.png",
+   "x": 847,
+   "y": 1575,
+   "w": 32,
+   "h": 44
+  }
+ ],
+ "Bowser": [
+  {
+   "file": "Bowser_01.png",
+   "x": 23,
+   "y": 1397,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "file": "Bowser_02.png",
+   "x": 103,
+   "y": 1397,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "file": "Bowser_03.png",
+   "x": 183,
+   "y": 1397,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "file": "Bowser_04.png",
+   "x": 263,
+   "y": 1397,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "file": "Bowser_05.png",
+   "x": 108,
+   "y": 1481,
+   "w": 48,
+   "h": 16
+  },
+  {
+   "file": "Bowser_06.png",
+   "x": 168,
+   "y": 1481,
+   "w": 48,
+   "h": 16
+  }
+ ],
+ "BulletBill": [
+  {
+   "file": "BulletBill_01.png",
+   "x": 370,
+   "y": 1433,
+   "w": 32,
+   "h": 28
+  },
+  {
+   "file": "BulletBill_02.png",
+   "x": 417,
+   "y": 1431,
+   "w": 32,
+   "h": 64
+  },
+  {
+   "file": "BulletBill_03.png",
+   "x": 371,
+   "y": 1467,
+   "w": 32,
+   "h": 28
+  }
+ ],
+ "FireBalls": [
+  {
+   "file": "FireBalls_01.png",
+   "x": 34,
+   "y": 1548,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "file": "FireBalls_02.png",
+   "x": 56,
+   "y": 1548,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "file": "FireBalls_03.png",
+   "x": 79,
+   "y": 1548,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "file": "FireBalls_04.png",
+   "x": 103,
+   "y": 1549,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "file": "FireBalls_05.png",
+   "x": 128,
+   "y": 1550,
+   "w": 16,
+   "h": 16
+  },
+  {
+   "file": "FireBalls_06.png",
+   "x": 154,
+   "y": 1544,
+   "w": 24,
+   "h": 28
+  },
+  {
+   "file": "FireBalls_07.png",
+   "x": 187,
+   "y": 1542,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "FireBalls_08.png",
+   "x": 229,
+   "y": 1544,
+   "w": 28,
+   "h": 32
+  },
+  {
+   "file": "FireBalls_09.png",
+   "x": 261,
+   "y": 1545,
+   "w": 28,
+   "h": 32
+  }
+ ],
+ "CheepCheep": [
+  {
+   "file": "CheepCheep_01.png",
+   "x": 339,
+   "y": 1550,
+   "w": 30,
+   "h": 32
+  },
+  {
+   "file": "CheepCheep_02.png",
+   "x": 382,
+   "y": 1550,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "CheepCheep_03.png",
+   "x": 423,
+   "y": 1550,
+   "w": 30,
+   "h": 32
+  },
+  {
+   "file": "CheepCheep_04.png",
+   "x": 466,
+   "y": 1550,
+   "w": 32,
+   "h": 32
+  },
+  {
+   "file": "CheepCheep_05.png",
+   "x": 509,
+   "y": 1549,
+   "w": 30,
+   "h": 32
+  },
+  {
+   "file": "CheepCheep_06.png",
+   "x": 551,
+   "y": 1549,
+   "w": 32,
+   "h": 32
+  }
+ ]
+}
